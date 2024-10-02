@@ -1,3 +1,2 @@
 Name:Ivan
-Email: Ivan.bamarni@city.ac.uk 
-test
+Email: Ivan.bamarni@city.ac.uk
